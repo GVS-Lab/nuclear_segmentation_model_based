@@ -1,2 +1,2 @@
-# nuclear_segmentation_model_based
+# Nuclear segmentation model based
 Training and testing the nuclear segmentation. 
