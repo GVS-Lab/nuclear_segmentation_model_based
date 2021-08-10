@@ -1,4 +1,4 @@
-# Nuclear segmentation model based
+# Nuclear segmentation
 This repository contains code for training and evaluating model based nuclear segmentation. 
 
 
